@@ -1,0 +1,6 @@
+C:\Users\master\source\repos\21-CS-Customer-Address\CS Customer Address\Domain\bin\Debug\Domain.dll
+C:\Users\master\source\repos\21-CS-Customer-Address\CS Customer Address\Domain\bin\Debug\Domain.pdb
+C:\Users\master\source\repos\21-CS-Customer-Address\CS Customer Address\Domain\obj\Debug\Domain.csprojAssemblyReference.cache
+C:\Users\master\source\repos\21-CS-Customer-Address\CS Customer Address\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\master\source\repos\21-CS-Customer-Address\CS Customer Address\Domain\obj\Debug\Domain.dll
+C:\Users\master\source\repos\21-CS-Customer-Address\CS Customer Address\Domain\obj\Debug\Domain.pdb

@@ -1,0 +1,11 @@
+C:\Users\master\source\repos\21-CS-Customer-Address\CS Customer Address\DAL\bin\Debug\DAL.dll
+C:\Users\master\source\repos\21-CS-Customer-Address\CS Customer Address\DAL\bin\Debug\DAL.pdb
+C:\Users\master\source\repos\21-CS-Customer-Address\CS Customer Address\DAL\bin\Debug\Domain.dll
+C:\Users\master\source\repos\21-CS-Customer-Address\CS Customer Address\DAL\bin\Debug\SL.dll
+C:\Users\master\source\repos\21-CS-Customer-Address\CS Customer Address\DAL\bin\Debug\Domain.pdb
+C:\Users\master\source\repos\21-CS-Customer-Address\CS Customer Address\DAL\bin\Debug\SL.pdb
+C:\Users\master\source\repos\21-CS-Customer-Address\CS Customer Address\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\master\source\repos\21-CS-Customer-Address\CS Customer Address\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\master\source\repos\21-CS-Customer-Address\CS Customer Address\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\master\source\repos\21-CS-Customer-Address\CS Customer Address\DAL\obj\Debug\DAL.dll
+C:\Users\master\source\repos\21-CS-Customer-Address\CS Customer Address\DAL\obj\Debug\DAL.pdb
