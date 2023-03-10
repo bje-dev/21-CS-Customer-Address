@@ -36,28 +36,28 @@ namespace DAL.Factory
     
 
 
-    public void CreateCustomerRepository(Customer obj)
+    public IGenericRepository<Customer> GetCustomerRepository()
 
         {
             if (backend=="SQL")
             {
-                SqlCustomerRepository.Current.Add(obj);
+               return SqlCustomerRepository.Current;
             }
             else
             {
-                FileCustomerRepository.Current.Add(obj);
+                return FileCustomerRepository.Current;
             }
 
         }    
 
 
-    public IGenericRepository<Customer> GetCustomerRepository(Guid id)
+    public IGenericRepository<Address> GetAddressRepository()
         {
            
             if (backend == "SQL")
             {
 
-               return SqlCustomerRepository.Current;
+                return SqlAddressRepository.Current;
 
                 
             }

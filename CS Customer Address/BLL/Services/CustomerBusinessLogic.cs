@@ -32,7 +32,7 @@ namespace BLL.Services
             if (obj.Edad<18)
             {
                 //Pasar objeto a la factory
-                Factory.Current.CreateCustomerRepository(obj);
+                Factory.Current.GetCustomerRepository().Add(obj);
 
             }
             else
